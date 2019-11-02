@@ -16,7 +16,7 @@ Test model deployment
 Create product recommendations
 Test product recommendations model
 
-We'll be using a few libraries for this exercise:
+We'll be using a few libraries :
 
 Watson Machine Learning Client: Client library to work with the Watson Machine Learning service on IBM Cloud. Library available on pypi. Service available on IBM Cloud.
 Pixiedust: Python Helper library for Jupyter Notebooks. Available on pypi.
